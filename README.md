@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parrodiv
-- 👀 I’m interested in web development and blockchain
+- 👀 I’m interested in web development and bitcoin
 - 🌱 I’m currently learning full-stack web development 
 
 <!---
