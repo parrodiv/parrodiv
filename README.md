@@ -59,6 +59,7 @@ I'm a Full Stack Engineer, currently i'm working mainly on MERN stack projects.
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
+  
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -74,7 +75,7 @@ I'm a Full Stack Engineer, currently i'm working mainly on MERN stack projects.
 <br>
  
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="mailto:alessandro.parrilla.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  parrodiv-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
